@@ -47,7 +47,7 @@
     "pixl-xml": "^1.0.9",
     "plugin-error": "^1.0.1",
     "promise": "^6.1.0",
-    "pug": "^2.0.0-alpha6",
+    "pug": "^3.0.1",
     "slugid": "^1.1.0",
     "streamfilter": "^1.0.5",
     "taskcluster-client": "^2.1.0",
